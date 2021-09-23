@@ -1,4 +1,4 @@
-# PythonParaEconomistas2021
+# Python para Economistas 2021
 
 Este repositorio será utilizado para compartir el código que se usará en las clases sincrónicas y los trabajos prácticos.
 
