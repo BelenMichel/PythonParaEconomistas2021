@@ -1,0 +1,13 @@
+En la clase asincrónica vamos a usar 3 librerías que deben instalar:
+
+NUMPY (en la consola deben correr una de estas dos opciones)
+conda install numpy
+pip install numpy
+
+PANDAS (en la consola deben correr una de estas dos opciones)
+conda install pandas
+pip install pandas
+
+MATPLOTLIB (en la consola deben correr una de estas dos opciones)
+conda install matplotlib
+pip install matplotlib
